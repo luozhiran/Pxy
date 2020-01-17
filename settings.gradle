@@ -1,0 +1,2 @@
+include ':app', ':plugin-lib'
+rootProject.name='Pxy'
